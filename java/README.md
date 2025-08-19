@@ -1,10 +1,10 @@
-# COSC 304 - Introduction to Database Systems<br>Lab 7: Building a Database-enabled Web Site using JSP
+# 
 
-**Please follow the setup instructions located in the [assign/setup](assign/setup) directory.**
+****
 
-**The sample code for these examples is [code/304_lab7_example_java.zip](code/304_lab7_example_java.zip).**
+****
 
-**Edit the sample code in the folder `WebContent`.**
+****
 
 ## Example 1
 
